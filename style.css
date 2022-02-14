@@ -1,0 +1,192 @@
+/*Styling Of Body : Start*/
+body
+{ 
+background: linear-gradient(#6681ea,#7e43aa);
+  color: ghostwhite;
+  font-family: 'Ruda', sans-serif;
+   font-size: 20px;
+}
+
+.copy_fil 
+{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+        background-color: chartreuse;
+        color: black;
+}
+/*Styling Of Body : End*/
+
+/*Styling Of Titles : Start*/
+#t1
+{
+  
+    font-size: 80px;
+
+}
+.t
+{
+    font-size: 80px;
+    float: left;
+
+
+}
+
+#t2
+{
+    font-size: 50px;
+}
+
+.painttitle
+{
+    margin-left: 100px;
+    float: left;
+}
+/*Styling Of Titles : End*/
+
+/*Styling Of Buttons : Start*/
+#start
+{
+    color: ghostwhite;
+    font-size: 60px;
+}
+
+#back
+{
+    color: ghostwhite;
+    font-size: 30px;
+    float :right
+    margin-right : 210px;
+
+}
+
+
+#Poduim_Bringer
+{
+    color: black;
+    background-color: darkcyan;
+    font-size: 40px;  
+}
+
+#startback
+{
+    color: black;
+    background-color: darkcyan;
+    font-size: 40px;  
+}
+/*Styling Of Buttons : End*/
+
+/*Paintings Of Everyone : Start*/
+#painting1
+{
+    color: black;
+    background-color: darkcyan; 
+    font-size: 40px; 
+}
+
+#painting2
+{
+    color: black;
+    background-color: darkcyan; 
+    font-size: 40px; 
+}
+
+#painting3
+{
+    color: black;
+    background-color: darkcyan; 
+    font-size: 40px; 
+}
+
+#painting4
+{
+    color: black;
+    background-color: darkcyan;  
+    font-size: 40px;
+}
+
+#painting5
+{
+    color: black;
+    background-color: darkcyan;
+    font-size: 40px;  
+}
+
+#painting6
+{
+    color: black;
+    background-color: darkcyan;
+    font-size: 40px;  
+}
+
+#painting7
+{
+    color: black;
+    background-color: darkcyan;
+    font-size: 40px;  
+}
+/*Paintings Of Everyone : End*/
+
+/*Images that hold everyone paintings and radio button for rating : Start*/
+.paintimg1
+{
+    float: left;
+    width: 881.38582677px;
+    height: 703.37007874px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+.paintimg2
+{
+    float: left;
+    width: 536.69291339px;
+    height: 707.90551181px;
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+.paintimg3
+{
+    float: left;
+    width: 907.08661417px;
+    height: 687.11811024px;
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+.paintimg4
+{
+    float: left;
+    width: 558.99212598px;
+    height: 697.7007874px;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+.paintimg5
+{
+    float: left;
+    width: 536.69291339px;
+    height: 707.90551181px;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+.paintimg6
+{
+    float: left;
+    width: 547.27559055px;
+    height: 699.21259843px;
+    margin-left: 200px;
+    margin-top: -90px;
+    margin-right: 100px;
+}
+
+
+/*images that hold everyone paintings and radio button for rating : End*/
+
